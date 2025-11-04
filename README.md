@@ -20,6 +20,53 @@ Vancouver City FC, a professional football club in the BOLT Soccer League (BSL),
 - **Operational Inefficiencies**: 8-day average delivery times and supply chain bottlenecks
 - **Limited Fan Engagement**: Low season pass adoption and weakened international supporter base
 
+Context and Background
+Vancouver City FC operates in a rapidly evolving sports entertainment landscape where traditional revenue models are becoming obsolete. The BOLT Soccer League (BSL) has experienced unprecedented growth, with new stadiums, international streaming deals, and global signings elevating the league's profile. However, this growth has created a competitive divide where clubs must innovate or risk financial collapse.
+The Core Problem
+Revenue Decline Crisis: The club's revenue has plummeted from $60 million annually to significantly lower levels, representing a catastrophic 30-40% decline. This isn't just a temporary dip – it's a structural breakdown of their business model.
+Detailed Problem Breakdown
+1. Stadium Operations Crisis
+The club owns a 54,500-seat stadium – a massive fixed asset that should be a revenue generator but has become a financial burden:
+
+Attendance Decline: Post-COVID, attendance hasn't recovered. International supporters who previously comprised 40% of the fanbase have largely disappeared
+Utilization Problem: The stadium sits empty for most of the year. With only 20-25 home games annually, that's 340+ days of unutilized capacity
+Concert Revenue Gap: Despite hosting concerts, they only occur 7 months out of 12, leaving 5 months of potential revenue ($2+ million) on the table
+Matchday Experience Issues: Long concession lines, limited food variety, and outdated amenities have reduced per-capita spending from $45 to $30
+
+2. Merchandise Distribution Failure
+The merchandise operation, once generating substantial off-pitch revenue, is failing on multiple fronts:
+
+Channel Dysfunction: The physical Team Store, located at the stadium with access to thousands of matchday fans, is dramatically underperforming
+Online Decline: Online sales have dropped 30% year-over-year despite targeted social media advertising
+Logistics Nightmare: 8-day average delivery time is unacceptable in the Amazon Prime era, causing cart abandonment rates of 15%
+Inventory Imbalance: High-margin jerseys sell well, but accessories (mugs, scarves, posters) accumulate as dead stock
+
+3. Fan Engagement Breakdown
+The relationship between club and supporters is weakening:
+
+Season Pass Crisis: Only 6.73% of members hold season passes – an extraordinarily low penetration rate
+Missed Opportunities: 32,530 fans attend 5+ games annually but haven't converted to season passes, representing $20+ million in potential revenue
+International Disconnect: The club has minimal presence in international markets despite BSL's global streaming reach
+Generational Gap: Strong engagement with 18-25 demographic but failing to connect with families and older supporters
+
+4. Operational Inefficiencies
+Underlying operational issues compound revenue problems:
+
+Supply Chain: The Burnaby fulfillment center struggles with both domestic and international distribution
+Technology Gap: Outdated inventory management and customer relationship systems
+Marketing Misalignment: Campaigns don't align with fan behavior patterns
+Pricing Strategy: No dynamic pricing despite variable demand patterns
+
+Why This Matters Now
+The situation is critical because:
+
+Competitive Pressure: Other BSL clubs are innovating rapidly, pulling ahead in fan acquisition
+Fixed Costs: Stadium maintenance, player salaries, and operations continue regardless of revenue
+Fan Loyalty Risk: Poor experiences are driving fans to other entertainment options
+Market Window: The BSL's growth won't last forever – clubs must capitalize now
+
+
+
 ## 📈 Key Findings from Data Analysis
 
 ### Stadium Operations Analysis
