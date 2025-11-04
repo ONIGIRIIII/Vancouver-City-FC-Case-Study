@@ -103,8 +103,8 @@ Underlying issues compound revenue problems:
 - **Current State**: 8 day average for all orders (no differentiation domestic/international)
 - **Cart Abandonment**: 15% directly attributed to delivery time at checkout
 - **Retention Correlation**:
-  - <5 day delivery: 65% repeat purchase rate
-  - >7 day delivery: 25% repeat purchase rate
+  - Less than 5 day delivery: 65% repeat purchase rate
+  - More than 7 day delivery: 25% repeat purchase rate
   - Customer Lifetime Value difference: 2.6x
 - **Competitive Gap**: Amazon Prime has set 2-day expectation. Industry average is 3-5 days.
 
