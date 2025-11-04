@@ -22,41 +22,39 @@ Vancouver City FC operates in the rapidly evolving BOLT Soccer League (BSL), whe
 ### Detailed Problem Breakdown
 
 #### 1. Stadium Operations Crisis
-The 54,500-seat stadium has transformed from a revenue generator into a financial burden:
-- **Attendance Collapse**: Post-COVID attendance hasn't recovered; international supporters (previously 40% of fanbase) have largely disappeared
-- **Massive Underutilization**: Stadium empty 340+ days/year with only 20-25 home games annually
-- **Concert Revenue Gap**: Only 7/12 months have concerts, missing $2+ million potential revenue
-- **Matchday Experience Deterioration**: Long concession lines, limited food variety, outdated amenities reduced per-capita spending from $45 to $30
-- **Fixed Cost Burden**: $200,000/month maintenance regardless of events
+The 54,500 seat stadium has transformed from a revenue generator into a financial burden:
+- **Massive Underutilization**: Stadium empty 340+ days/year with only 20-25 home games annually.
+- **Concert Revenue Gap**: Only 7/12 months have concerts, missing $2+ million potential revenue.
+- **Matchday Experience Deterioration**: Long concession lines, limited food variety, outdated amenities reduced per-capita spending from $45 to $30.
+- **Fixed Cost Burden**: $200,000/month maintenance regardless of events.
 
 #### 2. Merchandise Distribution Failure
-The merchandise operation faces multi-channel dysfunction:
-- **Team Store Collapse**: Despite access to 30,000+ matchday fans, dramatic underperformance
-- **Online Sales Decline**: 30% year-over-year drop despite targeted social media advertising
-- **Logistics Nightmare**: 8-day delivery average causing 15% cart abandonment (industry standard: 3-5 days)
-- **Inventory Imbalance**: High-margin jerseys sell well, but accessories accumulate as dead stock
-- **Supply Chain Disruption**: Burnaby fulfillment center struggles with post-COVID bottlenecks
+The merchandise operation faces multi channel dysfunction:
+- **Team Store Collapse**: Despite access to 30,000+ matchday fans, dramatic underperformance.
+- **Online Sales Decline**: 30% year-over-year drop despite targeted social media advertising.
+- **Logistics Nightmare**: 8 day delivery average causing 15% cart abandonment (industry standard: 3-5 days).
+- **Inventory Imbalance**: High margin jerseys sell well, but accessories accumulate as dead stock.
+- **Supply Chain Disruption**: Burnaby fulfillment center struggles with bottlenecks.
 
 #### 3. Fan Engagement Breakdown
-The club-supporter relationship is deteriorating:
-- **Season Pass Crisis**: Only 6.73% penetration rate (4,750 of 65,250 members) - extraordinarily low
-- **Missed Revenue**: 32,530 fans attend 5+ games without passes, representing $20+ million potential
-- **International Market Loss**: Minimal presence despite BSL's global streaming reach
-- **Demographic Disconnect**: Strong 18-25 engagement but failing with families and older supporters
-- **Loyalty Erosion**: No rewards program or retention strategy for high-value fans
+The club supporter relationship is deteriorating:
+- **Season Pass Crisis**: Only 6.73% penetration rate (4,750 of 65,250 members) which is extraordinarily low.
+- **Missed Revenue**: 32,530 fans attend 5+ games without passes, representing $20+ million potential.
+- **International Market Loss**: Minimal presence despite BSL's global streaming reach.
+- **Demographic Disconnect**: Strong 18-25 engagement but failing with families and older supporters.
+- **Loyalty Erosion**: No rewards program or retention strategy for high value fans.
 
 #### 4. Operational Inefficiencies
 Underlying issues compound revenue problems:
-- **Technology Gap**: Outdated inventory management and CRM systems
-- **No Dynamic Pricing**: Missing variable demand monetization opportunities
-- **Marketing Misalignment**: Campaigns don't match fan behavior patterns
-- **Channel Conflict**: Online and physical retail operate in silos
+- **Technology Gap**: Outdated inventory management and CRM systems.
+- **No Dynamic Pricing**: Missing variable demand monetization opportunities.
+- **Marketing Misalignment**: Campaigns don't match fan behavior patterns.
+- **Channel Conflict**: Online and physical retail operate in silos.
 
 ### Why This Crisis Demands Immediate Action
-1. **Competitive Threat**: Other BSL clubs innovating rapidly, widening the gap
-2. **Fixed Cost Pressure**: Stadium, salaries, operations continue regardless of revenue
-3. **Fan Loyalty Risk**: Poor experiences driving permanent defection to other entertainment
-4. **Market Window Closing**: BSL growth phase won't last - must capitalize now
+1. **Competitive Threat**: Other BSL clubs innovating rapidly, widening the gap.
+2. **Fixed Cost Pressure**: Stadium, salaries, operations continue regardless of revenue.
+3. **Fan Loyalty Risk**: Poor experiences driving permanent defection to other entertainment.
 
 ## 📈 Key Findings from Data Analysis - Detailed Insights
 
@@ -64,24 +62,23 @@ Underlying issues compound revenue problems:
 **Critical Discovery**: The stadium operates at only 15% capacity utilization annually.
 
 **The Data Reveals**:
-- **Concert Revenue**: Current average of $406,250 per event with only 7/12 months utilized
-- **Missed Opportunity**: 5 empty months × $406,250 = $2,031,250 in foregone revenue
-- **Fixed Cost Burden**: $200,000/month maintenance regardless of event schedule
-- **Multiplier Effect**: Concert months generate 3.5x total revenue vs non-concert months
+- **Concert Revenue**: Current average of $406,250 per event with only 7/12 months utilized.
+- **Missed Opportunity**: 5 empty months × $406,250 = $2,031,250 in foregone revenue.
+- **Fixed Cost Burden**: $200,000/month maintenance regardless of event schedule.
+- **Multiplier Effect**: Concert months generate 3.5x total revenue vs non concert months.
 
-**Key Insight**: The stadium isn't just underutilized - it's a massive fixed asset generating negative ROI. Each additional event has ~70% margin after variable costs, making expansion critical for financial sustainability.
+**Key Insight**: The stadium isn't just underutilized it's a massive fixed asset generating negative ROI. Each additional event has ~70% margin after variable costs, making expansion critical for financial sustainability.
 
 ### Finding 2: Merchandise Channel Dysfunction & Product Imbalance
 **Critical Discovery**: A pricing paradox exists where premium products thrive while accessories fail.
 
 **The Data Reveals**:
-- **Jersey Performance**: Despite $120-150 price points, jerseys show highest revenue and margin
+- **Jersey Performance**: Despite $120-150 price points, jerseys show highest revenue and margin.
 - **Dead Stock Crisis**: 
   - Mugs: 3,770 units sitting in inventory
   - Scarves: 3,820 units unsold
   - Posters: 3,490 units accumulating storage costs
-- **Channel Failure**: Team Store captures <10% of 30,000+ matchday traffic
-- **Customer Shift**: International customers dropped from 40% to 10% post-COVID
+- **Channel Failure**: Team Store captures <10% of 30,000+ matchday traffic.
 - **Bundle Opportunity**: Accessory conversion jumps from 2% standalone to 18% when bundled
 
 **Key Insight**: Customers willing to pay premium for jerseys are also accessory buyers, but only when properly merchandised. The Team Store's failure correlates with poor visual merchandising and limited payment options.
@@ -90,18 +87,18 @@ Underlying issues compound revenue problems:
 **Critical Discovery**: Delivery speed directly correlates with customer retention and lifetime value.
 
 **The Data Reveals**:
-- **Current State**: 8-day average for ALL orders (no differentiation domestic/international)
+- **Current State**: 8 day average for all orders (no differentiation domestic/international)
 - **Cart Abandonment**: 15% directly attributed to delivery time at checkout
 - **Retention Correlation**:
   - <5 day delivery: 65% repeat purchase rate
   - >7 day delivery: 25% repeat purchase rate
   - Customer Lifetime Value difference: 2.6x
-- **Competitive Gap**: Amazon Prime has set 2-day expectation; industry average is 3-5 days
+- **Competitive Gap**: Amazon Prime has set 2-day expectation. Industry average is 3-5 days.
 
-**Key Insight**: The delivery problem creates a vicious cycle - long times reduce satisfaction → lower repeat purchases → reduced volume → worse shipping rates → perpetuating delays. Breaking this cycle could unlock significant value.
+**Key Insight**: The delivery problem creates a vicious cycle long times reduce satisfaction → lower repeat purchases → reduced volume → worse shipping rates → perpetuating delays. Breaking this cycle could unlock significant value.
 
 ### Finding 4: Season Pass Conversion Goldmine
-**Critical Discovery**: High-engagement fans actually spend MORE without season passes than with them.
+**Critical Discovery**: High engagement fans actually spend MORE without season passes than with them.
 
 **The Data Reveals**:
 - **Penetration Crisis**: Only 4,750 passes among 65,250 members (6.73% - industry average: 15-20%)
@@ -113,18 +110,18 @@ Underlying issues compound revenue problems:
   - 60+ group: 4.1 average games (most loyal)
 - **Behavioral Pattern**: Non-pass holders value flexibility over savings
 
-**Key Insight**: The problem isn't price - it's product design. Fans avoid season passes due to inflexibility, not cost. This completely reshapes our approach from discount-focused to flexibility-focused.
+**Key Insight**: The problem isn't price it's product design. Fans avoid season passes due to inflexibility not cost. This completely reshapes our approach from discount focused to flexibility focused.
 
 ### Finding 5: Promotional Effectiveness & Consumer Psychology
 **Critical Discovery**: Fans respond to urgency and exclusivity, not discounts.
 
 **The Data Reveals**:
 - **Channel Disparity**: Promotions drive 35% of online sales but only 8% of Team Store sales
-- **Effectiveness Gap**: Limited-time offers outperform percentage discounts 3:1
+- **Effectiveness Gap**: Limited time offers outperform percentage discounts 3:1
 - **Social Media Paradox**: High traffic generation but <2% conversion rate
 - **Price Sensitivity**: Premium products ($150+) show lower price elasticity than mid-range ($50-100)
 
-**Key Insight**: The data suggests Vancouver City fans are not price-sensitive but value-seeking. They'll pay premium prices for perceived exclusivity and quality but ignore generic discounts.
+**Key Insight**: The data suggests Vancouver City fans are not price sensitive but value seeking. They'll pay premium prices for perceived exclusivity and quality but ignore generic discounts.
 
 ## 💡 Proposed Solutions - Detailed Implementation Strategies
 
