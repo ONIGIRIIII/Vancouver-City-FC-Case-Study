@@ -18,7 +18,8 @@ This case study analyzes Vancouver City FC's revenue challenges and presents dat
 BOLT UBC First Byte 2025 - Data Analytics Case Competition
 
 **🔗 [Case Problem](https://drive.google.com/file/d/1zD602KYlr48tT-d6cRUEImMgADlbjeHl/view?usp=sharing)**
-Dataset
+
+Dataset Given
 - Fanbase Engagements
 - Merchandise Sales
 - Stadium Operations
@@ -424,18 +425,6 @@ Rewards:
 ## 📝 Conclusion
 
 Vancouver City FC has significant untapped revenue potential across its three core pillars. By implementing our data driven recommendations, the club can achieve a $4M revenue uplift while strengthening its community ties and expanding its global reach. The key to success lies in balancing innovation with the club's traditional values, ensuring sustainable growth that benefits both the organization and its passionate fanbase.
-
-## 📎 Appendix
-
-### Data Sources
-- Stadium Operations Dataset (2024)
-- Merchandise Sales Dataset (2024)
-- Fanbase Engagement Dataset (2024)
-
-### Presentation Materials
-- Full presentation deck available
-- BI Dashboard with interactive visualizations
-- Detailed financial models and projections
 
 ---
 *This case study was completed as part of the BOLT UBC First Byte 2025 competition*
