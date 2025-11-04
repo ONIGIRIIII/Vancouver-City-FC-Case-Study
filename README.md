@@ -2,22 +2,24 @@
 
 ## 📊 Project Overview
 
-This case study analyzes Vancouver City FC's revenue challenges and presents data-driven solutions to optimize stadium operations, merchandise sales, and fanbase engagement. Our team was hired as external data consultants to identify the most impactful strategies for revenue growth while maintaining the club's community-focused identity.
+This case study analyzes Vancouver City FC's revenue challenges and presents data-driven solutions to optimize stadium operations, merchandise sales, and fanbase engagement. Our team was hired as external data consultants to identify the most impactful strategies for revenue growth while maintaining the club's community focused identity.
 
 ### Team Members
 - Sama Patnaik
 - Harshpreet Singh
 
+### Dashboard and Presentation
+
 ### Competition
 BOLT UBC First Byte 2025 - Data Analytics Case Competition
 
-## 🎯 Business Challenge - Detailed Analysis
+## 🎯 Business Challenge 
 
 ### The Context
-Vancouver City FC operates in the rapidly evolving BOLT Soccer League (BSL), where traditional revenue models are becoming obsolete. Despite the league's unprecedented growth with new stadiums, international streaming deals, and global signings, Vancouver City FC faces a critical revenue crisis that threatens its competitive position and long-term sustainability.
+Vancouver City FC operates in the rapidly evolving BOLT Soccer League (BSL), where traditional revenue models are becoming obsolete. Despite the league's unprecedented growth with new stadiums, international streaming deals, and global signings, Vancouver City FC faces a critical revenue crisis that threatens its competitive position and long term sustainability.
 
 ### Core Problem: Revenue Collapse
-**The club's revenue has plummeted from $60 million to significantly lower levels - a catastrophic 30-40% decline that represents a structural breakdown of their business model.**
+**The club's revenue has plummeted from $60 million to significantly lower levels a catastrophic 30-40% decline that represents a structural breakdown of their business model.**
 
 ### Detailed Problem Breakdown
 
@@ -56,7 +58,7 @@ Underlying issues compound revenue problems:
 2. **Fixed Cost Pressure**: Stadium, salaries, operations continue regardless of revenue.
 3. **Fan Loyalty Risk**: Poor experiences driving permanent defection to other entertainment.
 
-## 📈 Key Findings from Data Analysis - Detailed Insights
+## 📈 Key Findings from Data Analysis 
 
 ### Finding 1: Massive Stadium Underutilization
 **Critical Discovery**: The stadium operates at only 15% capacity utilization annually.
@@ -123,7 +125,7 @@ Underlying issues compound revenue problems:
 
 **Key Insight**: The data suggests Vancouver City fans are not price sensitive but value seeking. They'll pay premium prices for perceived exclusivity and quality but ignore generic discounts.
 
-## 💡 Proposed Solutions - Detailed Implementation Strategies
+## 💡 Proposed Solutions 
 
 ### SOLUTION 1: Premium Product Expansion & Merchandise Optimization
 
@@ -133,12 +135,11 @@ Transform merchandise from a simple product line into a hierarchical brand ecosy
 #### Implementation Details
 
 **A. Premium Product Development**
-- **Market Validation**: Survey top 500 customers on premium preferences (70% want player-signed items)
+- **Market Validation**: Survey top 500 customers on premium preferences (70% want player signed items)
 - **Product Tiers**:
   - Tier 1 ($400-600): Match-worn jerseys, team-signed items
   - Tier 2 ($200-400): Individual player signatures, limited editions
   - Tier 3 ($100-200): Commemorative items, anniversary editions
-- **Authentication Process**: Holographic certificates and blockchain verification
 - **Supply Chain**: Partner with 3-5 current/former players for regular signing sessions
 
 **B. Strategic Bundle Architecture**
@@ -157,8 +158,8 @@ Transform merchandise from a simple product line into a hierarchical brand ecosy
 ```
 
 **C. Channel Optimization**
-- **Team Store Revolution**: Instagram-worthy displays, digital payment options, matchday pop-ups
-- **Online Enhancement**: Bundle configurator, virtual try-on, personalization options
+- **Team Store Revolution**: Instagram worthy displays, digital payment options, matchday pop ups
+- **Online Enhancement**: Bundle configurator, virtual try on, personalization options
 - **Stadium Integration**: QR code ordering from seats, express pickup windows
 
 #### Expected Impact
@@ -173,7 +174,7 @@ Transform merchandise from a simple product line into a hierarchical brand ecosy
 ### SOLUTION 2: Stadium Utilization from Concerts & Events
 
 #### Strategic Approach
-Transform the stadium from a 25-day venue to a 100+ day entertainment destination while protecting the pitch.
+Transform the stadium from a 25 day venue to a 100+ day entertainment destination while protecting the pitch.
 
 #### Implementation Details
 
@@ -194,15 +195,10 @@ Total New Concert Revenue: $4.4M
 - **Private Events** (10/year): Weddings, private parties - $30K each = $300K
 
 **C. Infrastructure Investment**
-- **Turf Protection System**: $250K investment, 8-month ROI
+- **Turf Protection System**: $250K investment, 8 month ROI
 - **Audio/Visual Upgrades**: $150K for permanent rigging, better artist attraction
 - **Event Operations Team**: 6 FTEs for dedicated event management
 
-**D. Risk Mitigation**
-- 72-hour pitch recovery minimum between events
-- Community advisory board for neighborhood relations
-- 500 free tickets per event for local residents
-- Monthly pitch quality assessments (must exceed 8/10)
 
 #### Expected Impact
 - Year 1: Additional $2M from expanded concerts
@@ -216,7 +212,7 @@ Total New Concert Revenue: $4.4M
 ### SOLUTION 3: Delivery Time Optimization
 
 #### Strategic Approach
-Create Amazon Prime-level delivery experience that converts one-time buyers into lifetime customers.
+Create Amazon Prime level delivery experience that converts one time buyers into lifetime customers.
 
 #### Implementation Details
 
@@ -233,7 +229,7 @@ Total Investment: $180K with 12-month payback
 - **Current State**: Order → Queue (24hr) → Pick (4hr) → Pack (2hr) → Ship → Delivery (8 days)
 - **Future State**: Order → Immediate Pick (1hr) → Pack (30min) → Same-day Ship → Delivery (2-4 days)
 - **Hot Stock Zone**: Top 20 SKUs positioned for 15-minute fulfillment
-- **Regional Micro-fulfillment**: Partner with 3 sports retailers for same-day delivery
+- **Regional Micro-fulfillment**: Partner with 3 sports retailers for same day delivery
 
 **C. Multi-Carrier Strategy**
 ```
@@ -251,10 +247,9 @@ Economy (5-7 days): $5 to customer, $4 cost = $1 margin
 ```
 
 **D. Customer Experience Enhancement**
-- Real-time tracking with photo updates at each stage
+- Real time tracking with photo updates at each stage
 - Proactive delay notifications with compensation
 - Delivery preference management (time windows, safe locations)
-- Service recovery: Late = 20% off, Very late = full refund, Lost = immediate replacement
 
 #### Expected Impact
 - Average delivery time: 8 days → 4 days (50% reduction)
@@ -296,7 +291,7 @@ SPECIALIZED PASSES
   Target: 100 companies
 ```
 
-**B. Data-Driven Conversion Campaign**
+**B. Data Driven Conversion Campaign**
 
 **Segment Strategy**:
 ```
@@ -319,10 +314,10 @@ Total New Conversions: 5,000
 ```
 
 **C. Multi-Channel Activation**
-- **Email**: 6-week personalized series with cost savings calculator
+- **Email**: 6 week personalized series with cost savings calculator
 - **In-Stadium**: Halftime promotions, roaming sales team, upgrade kiosks
 - **Digital**: Retargeting, lookalike audiences, influencer partnerships
-- **Direct Sales**: Personal calls to high-value prospects
+- **Direct Sales**: Personal calls to high value prospects
 
 **D. Loyalty & Retention Program**
 ```
@@ -356,87 +351,6 @@ Rewards:
 - **Season Pass Membership**: +3,000 members
 - **Team Store Growth**: +25%
 
-## 🗓️ Implementation Roadmap
-
-### Phase 1: First 30 Days
-- Launch merchandise bundling pilot online
-- Identify concert booking opportunities
-- Segment and target high-engagement fans
-
-### Phase 2: 30-60 Days
-- Launch 5-game Flex Pass for students/young adults
-- Implement express shipping option (domestic)
-- Plan first signed jersey limited drop
-
-### Phase 3: 60-90 Days
-- Secure 2 off-season concert bookings
-- Launch "Attend-to-Earn" rewards program
-- Analyze and optimize initial results
-
-## 🎯 Success Metrics & KPIs
-
-### Stadium Operations
-- Stadium utilization rate (target: 75%+ for non-match events)
-- Average revenue per event
-- Concession spend per attendee
-
-### Merchandise
-- Online vs. Team Store sales ratio
-- Product category performance
-- Delivery time metrics
-- Customer satisfaction scores
-
-### Fan Engagement
-- Season pass conversion rate
-- Game attendance trends
-- Fan lifetime value
-- International fanbase growth
-
-## 🛠️ Technical Implementation
-
-### Data Analysis Tools Used
-- Data cleaning and preprocessing for customer demographics
-- Sales trend analysis across channels and categories
-- Customer segmentation analysis
-- Revenue forecasting models
-
-### Key Data Insights
-- Identified data inconsistencies in age groups and regions
-- Discovered seasonal patterns in merchandise sales
-- Mapped correlation between game attendance and spending
-- Analyzed delivery time impact on customer retention
-
-## 🎯 Strategic Alignment
-
-Our solutions maintain Vancouver City FC's core values while driving growth:
-- **Community & Belonging**: Flexible ticket options for diverse fan segments
-- **Excellence**: Premium product offerings elevate brand perception
-- **Innovation**: Digital optimization and data-driven decisions
-- **Teamwork**: Integrated approach across all revenue streams
-
-## 📈 Risk Mitigation
-
-### Identified Risks & Mitigation Strategies
-1. **Premium Product Risk**: Launch via pre-orders to test demand
-2. **Concert Scheduling Conflicts**: Implement turf recovery windows
-3. **Delivery Partner Dependencies**: Start with domestic improvements
-4. **Season Pass Cannibalization**: Include retroactive perks for existing holders
-
-## 🔄 Integration and Synergies
-
-### The Multiplier Effect
-These four solutions create compounding value through strategic integration:
-
-1. **Concert → Football Pipeline**: 20% of concert attendees receiving promotional offers become match attendees
-2. **Delivery → Merchandise → Season Pass**: Faster delivery increases merchandise sales, enhancing value perception of season pass merchandise discounts
-3. **Premium Products → Brand Prestige**: Limited editions create brand desirability, making season passes status symbols
-4. **Season Pass → Total Revenue**: Pass holders spend 3x more on concessions, merchandise, and bring more friends to games
-
-### Cross-Solution Benefits
-- **Data Integration**: Unified customer view across all touchpoints enables personalized marketing
-- **Operational Efficiency**: Shared infrastructure (staff, technology, logistics) reduces marginal costs
-- **Brand Coherence**: Consistent premium experience across all interactions builds loyalty
-- **Network Effects**: Each successful solution makes others more valuable
 
 ## ⏱️ Implementation Timeline & Next Steps
 
@@ -446,7 +360,7 @@ These four solutions create compounding value through strategic integration:
 - Begin concert booking negotiations for 5 additional months
 - Implement warehouse quick wins (process optimization, no tech yet)
 - Design and launch Flex Pass architecture
-- Start segmented email campaigns to 32,530 high-engagement fans
+- Start segmented email campaigns to 32,530 high engagement fans
 
 **Key Milestones**:
 - Week 2: Bundle launch online
@@ -458,7 +372,7 @@ These four solutions create compounding value through strategic integration:
 **Scaling Activities**:
 - First premium product drop (500 signed jerseys)
 - Secure and promote 3 additional concerts
-- Roll out express shipping with multi-carrier strategy
+- Roll out express shipping with multi carrier strategy
 - Heavy conversion push for season passes
 - Launch "City Faithful" loyalty program
 
@@ -471,7 +385,7 @@ These four solutions create compounding value through strategic integration:
 ### Phase 3: Optimization (Months 7-9)
 **Refinement Focus**:
 - Analyze and adjust bundle offerings based on data
-- Host first non-concert events (corporate, community)
+- Host first non concert events (corporate, community)
 - Achieve consistent sub-5-day delivery
 - Second wave pass conversion campaign
 - Implement dynamic pricing for merchandise
@@ -496,18 +410,10 @@ These four solutions create compounding value through strategic integration:
 - Stadium utilization 40%+
 - International sales recovery to 20%
 
-### Critical Success Factors
-1. **Executive Commitment**: C-suite alignment and resource allocation
-2. **Cross-Functional Teams**: Break down silos between departments
-3. **Data Infrastructure**: Unified customer view and real-time analytics
-4. **Change Management**: Staff training and cultural transformation
-5. **Fan Communication**: Transparent updates on improvements
-6. **Agile Approach**: Test, learn, iterate quickly
-7. **Partner Selection**: Choose vendors who share the vision
 
 ## 📝 Conclusion
 
-Vancouver City FC has significant untapped revenue potential across its three core pillars. By implementing our data-driven recommendations, the club can achieve a $4M revenue uplift while strengthening its community ties and expanding its global reach. The key to success lies in balancing innovation with the club's traditional values, ensuring sustainable growth that benefits both the organization and its passionate fanbase.
+Vancouver City FC has significant untapped revenue potential across its three core pillars. By implementing our data driven recommendations, the club can achieve a $4M revenue uplift while strengthening its community ties and expanding its global reach. The key to success lies in balancing innovation with the club's traditional values, ensuring sustainable growth that benefits both the organization and its passionate fanbase.
 
 ## 📎 Appendix
 
@@ -520,9 +426,6 @@ Vancouver City FC has significant untapped revenue potential across its three co
 - Full presentation deck available
 - BI Dashboard with interactive visualizations
 - Detailed financial models and projections
-
-### Contact Information
-For questions about this analysis or implementation support, please contact the consulting team.
 
 ---
 *This case study was completed as part of the BOLT UBC First Byte 2025 competition*
