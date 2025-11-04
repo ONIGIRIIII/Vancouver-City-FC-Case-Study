@@ -10,6 +10,11 @@ This case study analyzes Vancouver City FC's revenue challenges and presents dat
 
 ### Dashboard and Presentation
 
+**🔗 [View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjNhODE3MDItZWVkZC00Njg3LWE2ZTItZDY0MjNiOGUxZmU3IiwidCI6Ijk4OTk3ZjE3LWI5Y2MtNDVhNy05ZTkxLThhOWFhMTlkMTg5NiJ9)**
+
+**🔗 [Presentation Link](https://drive.google.com/file/d/18_M2rn41f-rhdzsgqppyXfvEZoEtxweW/view?usp=sharing)**
+
+
 ### Competition
 BOLT UBC First Byte 2025 - Data Analytics Case Competition
 
