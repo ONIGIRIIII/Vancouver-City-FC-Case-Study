@@ -1,4 +1,4 @@
-# Vancouver City FC Case Study - Driving Revenue Growth Through Data
+# Vancouver City FC Case Study, Driving Revenue Growth Through Data
 
 ## 📊 Project Overview
 
